@@ -255,7 +255,7 @@ Authorization: Bearer <ACCESS_TOKEN>
     - Database migrations (golang-migrate)
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Author
 Built by **Raghunandan Sharma**. Learning focused, backend-first, and security aware
