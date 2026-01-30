@@ -2,7 +2,7 @@
 
 A **production-inspired authentication service** built using **Go**, **Gin**, **GORM**, **MySQL**, **JWT access tokens**, and **database-backed refresh tokens**.
 
-This project is **not a toy tutorial** — it demonstrates **real-world authentication concepts**, correct database constraints, and secure session handling.
+This project is **not a toy tutorial**, it demonstrates **real-world authentication concepts**, correct database constraints, and secure session handling.
 
 ---
 
@@ -56,11 +56,11 @@ auth-service/
 ## Tech Stack
 
 - **Go**
-- **Gin** – HTTP framework
-- **GORM** – ORM
+- **Gin:** HTTP framework
+- **GORM:** ORM
 - **MySQL**
-- **JWT** – Access tokens
-- **bcrypt** – Password hashing
+- **JWT:** Access tokens
+- **bcrypt:** Password hashing
 
 ---
 
@@ -75,9 +75,9 @@ go mod tidy
 ### 2 Create .env File
 
 ```env
-DB_USER=root
+DB_USER=yourusername
 DB_PASSWORD=yourpassword
-DB_HOST=localhost
+DB_HOST=yourhost
 DB_PORT=3306
 DB_NAME=auth_service
 
